@@ -51,3 +51,5 @@ Maintaining different versions manually is difficult and error-prone. GitHub pro
 3
 Today I cloned my repository to my local computer and opened it in VS Code.
 Show more lines
+Today I repeated Session 5 and learned how to use Git, VS Code and GitHub together.
+Show more lines
