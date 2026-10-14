@@ -15,7 +15,13 @@
 9
 - GitHub stores change history
 10
- 
+GitHub = cloud platform for projects
+Git = version control tool
+Repository = project folder
+Commit = saved checkpoint
+VS Code = editor used to work with repositories
+Push = upload changes to GitHub
+Pull = download changes from GitHub
 11
 ### Questions
 12
