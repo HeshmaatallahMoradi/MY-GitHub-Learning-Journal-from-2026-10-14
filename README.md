@@ -1,3 +1,4 @@
+Added Session 5 niotees
 # MY-GitHub-Learning-Journal-from-2026-10-14
 Here, I will write the most important information related to GitHub and AI in a clear and well-structured way that is easy to follow, review, and understand. I will also include relevant links and, whenever possible, screenshots to make the topics easier to learn and remember.
 I should change it later
@@ -29,7 +30,7 @@ Learn GitHub step by step for:
  
 13
 New concepts:
-14
+14ss
 - Git
 15
 - GitHub
@@ -43,3 +44,10 @@ New concepts:
 Main takeaway:
 20
 Maintaining different versions manually is difficult and error-prone. GitHub provides one central location with complete change history and collaboration support.
+
+## Session 5
+2
+ 
+3
+Today I cloned my repository to my local computer and opened it in VS Code.
+Show more lines
