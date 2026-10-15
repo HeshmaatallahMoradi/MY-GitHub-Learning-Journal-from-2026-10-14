@@ -53,3 +53,9 @@ Today I cloned my repository to my local computer and opened it in VS Code.
 Show more lines
 Today I repeated Session 5 and learned how to use Git, VS Code and GitHub together.
 Show more lines
+Today I successfully repeated Session 5.
+Branch Practice
+This text was added in test-branch.
+session 5 compeleted.
+Branch Test
+This text exists only in test-branch.
