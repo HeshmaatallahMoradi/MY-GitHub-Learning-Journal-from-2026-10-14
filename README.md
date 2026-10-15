@@ -59,3 +59,5 @@ This text was added in test-branch.
 session 5 compeleted.
 Branch Test
 This text exists only in test-branch.
+Session 6 Practice
+Created a branch and edited this file inside the branch.
