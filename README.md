@@ -60,3 +60,4 @@ session 5 compeleted.
 Branch Test
 This text exists only in test-branch.
 SESSION7-PROOF-12345
+This change was created in the merge-practice branch.
